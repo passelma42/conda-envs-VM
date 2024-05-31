@@ -1,0 +1,6 @@
+name: iqtree
+channels:
+  - conda-forge
+  - defaults
+  - bioconda
+prefix: /opt/miniconda3/envs/iqtree
