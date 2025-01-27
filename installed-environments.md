@@ -7,6 +7,7 @@
 | eNano_env       | [enano - Github](https://github.com/MycoMatics/eNano) | A simple workflow for eDNA runs on basecalled, demultiplexed Nanopore data as outputted by MinKnow. |     
 | iqtree          | [iqtree - Github](https://github.com/Cibiv/IQ-TREE) | Efficient and versatile phylogenomic software by maximum likelihood: [iqtree.org](http://www.iqtree.org)|  
 | Hybpiper         | [Hybpiper - Github](https://github.com/mossmatters/HybPiper) | HybPiper was designed for targeted sequence capture, in which DNA sequencing libraries are enriched for gene regions of interest, especially for phylogenetics.|
+| UFCG         | [UFCG - Github](https://github.com/steineggerlab/ufcg) | UFCG pipeline provides methods for a genome-wide taxonomic profiling and annotation of your own biological sequences of Fungi.|
 
 
 ## Environments on Kermit (under construction)  
