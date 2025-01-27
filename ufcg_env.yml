@@ -1,0 +1,17 @@
+name: ufcg_env
+channels:
+  - conda-forge
+  - defaults
+  - bioconda
+dependencies:
+  - python=3.8
+  - openjdk=11
+  - maven
+  - augustus
+  - iqtree
+  - mafft
+  - mmseqs2
+  - gsl==2.7
+  - openblas
+  - ufcg
+prefix: /opt/miniconda3/envs/ufcg_env
